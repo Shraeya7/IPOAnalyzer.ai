@@ -1,7 +1,7 @@
 # IPOAnalyzer.ai - Automated IPO RHP Analysis
 
 
-IPO Wise is an intelligent solution that leverages web scraping, Google Cloud Vertex AI, GPT-3.5, and machine learning algorithms to automate the process of IPO (Initial Public Offering) draft analysis. This project aims to reduce human effort, increase speed, and provide insightful analysis of IPO drafts.
+IPOAnalyzer.ai is an intelligent solution that leverages web scraping, Google Cloud Vertex AI, GPT-3.5, and machine learning algorithms to automate the process of IPO (Initial Public Offering) draft analysis. This project aims to reduce human effort, increase speed, and provide insightful analysis of IPO drafts.
 
 ## Table of Contents
 - [Features](#features)
